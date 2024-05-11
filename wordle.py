@@ -1,3 +1,6 @@
+"""
+This is wordle.
+"""
 import random
 
 wordsList = ["guess", "guest", "tiger", "aloft", "plain", "plane", "human", "robot", "squat", "squad", "swift", "flare",
